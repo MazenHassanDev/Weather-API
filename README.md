@@ -24,7 +24,7 @@ Request → Check Redis Cache → Cache Hit?
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/your-username/weather-api.git
+git clone https://github.com/MazenHassanDev/Weather-API.git
 cd weather-api
 ```
 
