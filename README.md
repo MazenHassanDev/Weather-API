@@ -84,10 +84,10 @@ GET http://localhost:5000/weather/london
 ```json
 {
     "source": "cache",
+    "data": { ... },
     "cached": true,
     "expires_in_seconds": 43180,
-    "expires_in_hours": 11.99,
-    "data": { ... }
+    "expires_in_hours": 11.99
 }
 ```
 
